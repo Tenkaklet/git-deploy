@@ -1,0 +1,9 @@
+
+
+#Ignore files
+
+.DS_Store
+.env
+node_modules/
+.idea/
+package-lock.json
